@@ -15,8 +15,16 @@
   "author": "bezkoder",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.21.0",
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
-    "mysql": "^2.17.1"
+    "jsontoxml": "^1.0.1",
+    "mysql": "^2.17.1",
+    "nodemon": "^2.0.6",
+    "split-string": "^6.1.0",
+    "substr": "0.0.7",
+    "substring": "^1.0.0",
+    "substrings": "^1.1.1",
+    "xml-js": "^1.6.11"
   }
 }
